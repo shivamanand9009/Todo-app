@@ -1,4 +1,4 @@
-[#TODO APP](https://shivam-anand-todo-app.netlify.app/)
+[TODO APP](https://shivam-anand-todo-app.netlify.app/)
 
 # TODO App
 
